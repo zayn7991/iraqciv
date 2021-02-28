@@ -1,0 +1,51 @@
+.font{
+text-align: center;
+}
+.font-head{
+    text-align: center;
+    float: left;
+}
+.font-header{
+    font-size: 23px;
+    font-weight: lighter;
+    font-family: Arial;
+    text-align: center;
+    color:whitesmoke;
+    float: right;
+    padding: 10px;
+}
+.img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:grey;
+    text-align: center;
+    
+  }
+  
+  li {
+    float: right;
+    text-align:center;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color:black;
+  }
+  body{
+      margin: 0;
+  }
